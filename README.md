@@ -71,7 +71,7 @@ To beging pitch detection, tap the Detect Pitch button and sing into the microph
 </p>
 
 ## Components
-SimpleDAW uses the [AudioKit](https://github.com/AudioKit/AudioKit) library to get a music pitch with note and amplitude from a specified frequency.
+SimpleDAW uses the [AudioKit](https://github.com/AudioKit/AudioKit) library to get a music pitch with its note and amplitude from a specified frequency.
 
 ## Features
 
