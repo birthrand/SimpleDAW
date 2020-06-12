@@ -23,7 +23,7 @@ The SimpleDAW user interface has three screens. This is the main screen.
 
 
 <p align="center">
-  <img src = "/images/main.PNG" width=300>
+  <img src = "/img/main.PNG" width=300>
 </p>
 
 
